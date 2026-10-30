@@ -29,8 +29,8 @@ window.__CONFIG = {
     "video": "videos/city-video.mp4"
   },
   "contact": {
-    "whatsapp": "https://wa.me/54951993285462",
-    "phone": "+54951993285462",
+    "whatsapp": "https://wa.me/51993285462",
+    "phone": "+51993285462",
     "email": ""
   },
   "social": {
@@ -372,7 +372,7 @@ window.__CONFIG = {
         "name": "Hospedaje Sunray",
         "description": "Hospedaje Sunray: pileta, parrilla, WiFi y la mejor ubicación en Perú.",
         "url": "",
-        "telephone": "+54951993285462",
+        "telephone": "+51993285462",
         "email": "",
         "image": "",
         "sameAs": [
